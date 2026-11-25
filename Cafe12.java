@@ -23,6 +23,7 @@ public class Cafe12 {
         }
         if (isMember) {
             System.out.println("You are a member, enjoy 10% off every purchase!");
+            System.out.println();
         }
 
         System.out.println("===== CAFE RESTAURANT MENU =====");
